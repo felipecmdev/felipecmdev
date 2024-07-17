@@ -11,4 +11,3 @@
   <img align= "center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div><br/>
 
-Estudante de Ciências da Computação me focando na área de backend, sempre buscando aprender mais e expandir meus conhecimentos.
